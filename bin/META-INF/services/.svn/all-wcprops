@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1366666/xmlgraphics/batik/trunk/resources/META-INF/services
+END
+org.apache.batik.apps.svgbrowser.SquiggleInputHandler
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/498556/xmlgraphics/batik/trunk/resources/META-INF/services/org.apache.batik.apps.svgbrowser.SquiggleInputHandler
+END
+org.apache.batik.ext.awt.image.spi.ImageWriter
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1366666/xmlgraphics/batik/trunk/resources/META-INF/services/org.apache.batik.ext.awt.image.spi.ImageWriter
+END
+org.apache.batik.bridge.BridgeExtension
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/resources/META-INF/services/org.apache.batik.bridge.BridgeExtension
+END
+org.apache.batik.dom.DomExtension
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/498556/xmlgraphics/batik/trunk/resources/META-INF/services/org.apache.batik.dom.DomExtension
+END
+org.apache.batik.ext.awt.image.spi.RegistryEntry
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1366666/xmlgraphics/batik/trunk/resources/META-INF/services/org.apache.batik.ext.awt.image.spi.RegistryEntry
+END
+org.apache.batik.script.InterpreterFactory
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/resources/META-INF/services/org.apache.batik.script.InterpreterFactory
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/985243/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom
+END
+NodeCompareDocumentPositionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/601946/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/NodeCompareDocumentPositionTest.java
+END
+RemoveAttributeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/RemoveAttributeTest.java
+END
+AttrIsIdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/601946/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/AttrIsIdTest.java
+END
+TextReplaceWholeTextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/601946/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/TextReplaceWholeTextTest.java
+END
+NodeTextContentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/601946/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/NodeTextContentTest.java
+END
+NullNamespaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/NullNamespaceTest.java
+END
+TextWholeTextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/601946/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/TextWholeTextTest.java
+END
+EcmaScriptDOMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/EcmaScriptDOMTest.java
+END
+DocumentNormalizeDocumentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/DocumentNormalizeDocumentTest.java
+END
+NodeBaseURITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/601946/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/NodeBaseURITest.java
+END
+DOMUtilitiesCharacterEscaping.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/DOMUtilitiesCharacterEscaping.java
+END
+DOM3Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/504106/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/DOM3Test.java
+END
+GetElementsByTagNameNSTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/GetElementsByTagNameNSTest.java
+END
+ElementSetIdAttributeNSTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/601946/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/ElementSetIdAttributeNSTest.java
+END
+HasChildNodesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/HasChildNodesTest.java
+END
+EventTargetAddEventListenerNSTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/601946/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/EventTargetAddEventListenerNSTest.java
+END
+CloneElementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/CloneElementTest.java
+END
+AppendChildTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/AppendChildTest.java
+END
+DocumentRenameNodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/601946/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/DocumentRenameNodeTest.java
+END
+DocumentAdoptNodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/601946/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/DocumentAdoptNodeTest.java
+END
+SerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/SerializationTest.java
+END
+ElementTraversalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/985243/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/ElementTraversalTest.java
+END
+NodeGetUserDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/601946/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/NodeGetUserDataTest.java
+END
+ReplaceChildTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/ReplaceChildTest.java
+END
+SetAttributeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/SetAttributeTest.java
+END

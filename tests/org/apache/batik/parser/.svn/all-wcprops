@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/parser
+END
+LengthParserFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/parser/LengthParserFailureTest.java
+END
+PathParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/parser/PathParserTest.java
+END
+LengthParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/parser/LengthParserTest.java
+END
+PathParserFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/parser/PathParserFailureTest.java
+END
+TransformListParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/parser/TransformListParserTest.java
+END

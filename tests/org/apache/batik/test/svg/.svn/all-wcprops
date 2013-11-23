@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/482121/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/Messages.java
+END
+SVGMediaRenderingAccuracyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/SVGMediaRenderingAccuracyTest.java
+END
+SVGTextContentRenderingAccuracyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/SVGTextContentRenderingAccuracyTest.java
+END
+SVGRenderingAccuracyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/SVGRenderingAccuracyTest.java
+END
+SVGAccuracyTestProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/SVGAccuracyTestProcessor.java
+END
+SVGOnLoadExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/475668/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/SVGOnLoadExceptionTest.java
+END
+AbstractRenderingAccuracyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/AbstractRenderingAccuracyTest.java
+END
+SVGRenderingAccuracyTestValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/SVGRenderingAccuracyTestValidator.java
+END
+SVGAlternateStyleSheetRenderingAccuracyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/SVGAlternateStyleSheetRenderingAccuracyTest.java
+END
+JSVGRenderingAccuracyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/JSVGRenderingAccuracyTest.java
+END
+BERenderingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/581141/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/BERenderingTest.java
+END
+SVGReferenceRenderingAccuracyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/581141/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/SVGReferenceRenderingAccuracyTest.java
+END
+PreconfiguredRenderingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/581141/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/PreconfiguredRenderingTest.java
+END
+SelfContainedSVGOnLoadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/SelfContainedSVGOnLoadTest.java
+END
+ParametrizedRenderingAccuracyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/581141/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/ParametrizedRenderingAccuracyTest.java
+END
+SelfContainedSVGOnLoadTestValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/482121/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/SelfContainedSVGOnLoadTestValidator.java
+END
+SamplesRenderingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/581141/xmlgraphics/batik/trunk/test-sources/org/apache/batik/test/svg/SamplesRenderingTest.java
+END

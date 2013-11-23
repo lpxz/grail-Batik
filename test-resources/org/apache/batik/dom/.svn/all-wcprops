@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/601944/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom
+END
+dummyXML.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/dummyXML.xml
+END
+bug18143.svg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/bug18143.svg
+END
+unitTesting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/601944/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/unitTesting.xml
+END
+dummyXML2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/dummyXML2.xml
+END
+dummyXML3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/dummyXML3.xml
+END
+dummyXML4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/dummyXML4.xml
+END
+bug20331.svg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/bug20331.svg
+END
+bug20332.svg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/bug20332.svg
+END

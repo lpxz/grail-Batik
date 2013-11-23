@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/475954/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/svg
+END
+presentationAttrRemovalTest.svg
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/svg/presentationAttrRemovalTest.svg
+END
+bug30580.svg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/475954/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/svg/bug30580.svg
+END
+unitTesting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/svg/unitTesting.xml
+END
+test.svg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/svg/test.svg
+END
+lengthTest.svg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/svg/lengthTest.svg
+END
+bug30580_image.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/219315/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/svg/bug30580_image.png
+END
+locatableTest.svg
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/dom/svg/locatableTest.svg
+END

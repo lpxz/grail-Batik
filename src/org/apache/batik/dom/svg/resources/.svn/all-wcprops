@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/728570/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources
+END
+svg-xlink-attrib.mod
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-xlink-attrib.mod
+END
+svg-view.mod
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-view.mod
+END
+svg-core-attrib.mod
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-core-attrib.mod
+END
+svg-pattern.mod
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-pattern.mod
+END
+svg-cursor.mod
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-cursor.mod
+END
+svg-extresources-attrib.mod
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-extresources-attrib.mod
+END
+svg-basic-structure.mod
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-basic-structure.mod
+END
+svg11-basic.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg11-basic.dtd
+END
+svg11-tiny.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg11-tiny.dtd
+END
+svg11-basic-model.mod
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg11-basic-model.mod
+END
+svg11-tiny-model.mod
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg11-tiny-model.mod
+END
+svg11-flat.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg11-flat.dtd
+END
+svg-basic-font.mod
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-basic-font.mod
+END
+svg-filter.mod
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-filter.mod
+END
+svg-clip.mod
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-clip.mod
+END
+Messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/728570/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/Messages.properties
+END
+svg-mask.mod
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-mask.mod
+END
+svg-opacity-attrib.mod
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-opacity-attrib.mod
+END
+dtdids.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/dtdids.properties
+END
+svg-animevents-attrib.mod
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-animevents-attrib.mod
+END
+svg-gradient.mod
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-gradient.mod
+END
+svg-paint-attrib.mod
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-paint-attrib.mod
+END
+svg-profile.mod
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-profile.mod
+END
+svg-style.mod
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-style.mod
+END
+svg-qname.mod
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-qname.mod
+END
+svg-conditional.mod
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-conditional.mod
+END
+svg-basic-text.mod
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-basic-text.mod
+END
+svg-script.mod
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-script.mod
+END
+svg-container-attrib.mod
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-container-attrib.mod
+END
+svg-font.mod
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-font.mod
+END
+svg-graphevents-attrib.mod
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-graphevents-attrib.mod
+END
+svg11-attribs.mod
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg11-attribs.mod
+END
+svg-docevents-attrib.mod
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-docevents-attrib.mod
+END
+svg-animation.mod
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-animation.mod
+END
+svg-marker.mod
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-marker.mod
+END
+svg-image.mod
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-image.mod
+END
+UserAgentStyleSheet.css
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/UserAgentStyleSheet.css
+END
+svg-graphics-attrib.mod
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-graphics-attrib.mod
+END
+svg-text.mod
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-text.mod
+END
+svg12-flat.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg12-flat.dtd
+END
+svg11-basic-attribs.mod
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg11-basic-attribs.mod
+END
+svg11-tiny-attribs.mod
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg11-tiny-attribs.mod
+END
+svg-extensibility.mod
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-extensibility.mod
+END
+svg-framework.mod
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-framework.mod
+END
+svg-datatypes.mod
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-datatypes.mod
+END
+svg10.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg10.dtd
+END
+svg11.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg11.dtd
+END
+svg-shape.mod
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-shape.mod
+END
+svg-structure.mod
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-structure.mod
+END
+svg11-model.mod
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg11-model.mod
+END
+svg-viewport-attrib.mod
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-viewport-attrib.mod
+END
+svg-basic-graphics-attrib.mod
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-basic-graphics-attrib.mod
+END
+svg11-basic-flat.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg11-basic-flat.dtd
+END
+svg-basic-filter.mod
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-basic-filter.mod
+END
+svg11-tiny-flat.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg11-tiny-flat.dtd
+END
+svg-hyperlink.mod
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-hyperlink.mod
+END
+svg-basic-clip.mod
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/216064/xmlgraphics/batik/trunk/resources/org/apache/batik/dom/svg/resources/svg-basic-clip.mod
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/svg
+END
+ImportNodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/svg/ImportNodeTest.java
+END
+SystemIdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/svg/SystemIdTest.java
+END
+CloneNodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/svg/CloneNodeTest.java
+END
+EcmaScriptSVGDOMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/dom/svg/EcmaScriptSVGDOMTest.java
+END

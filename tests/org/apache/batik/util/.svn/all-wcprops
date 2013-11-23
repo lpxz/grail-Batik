@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/util
+END
+ApplicationSecurityEnforcerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/482121/xmlgraphics/batik/trunk/test-sources/org/apache/batik/util/ApplicationSecurityEnforcerTest.java
+END
+ParsedURLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/util/ParsedURLTest.java
+END
+Base64Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/util/Base64Test.java
+END
+ThreadPounder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/util/ThreadPounder.java
+END
+TestMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/482121/xmlgraphics/batik/trunk/test-sources/org/apache/batik/util/TestMessages.java
+END
+ParsedURLDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/util/ParsedURLDataTest.java
+END
+RunnableQueueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/util/RunnableQueueTest.java
+END

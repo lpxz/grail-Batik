@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/test-sources/org/apache/batik/bridge
+END
+ExternalResourcesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/489226/xmlgraphics/batik/trunk/test-sources/org/apache/batik/bridge/ExternalResourcesTest.java
+END
+ScriptSelfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/bridge/ScriptSelfTest.java
+END
+EcmaNoLoadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/bridge/EcmaNoLoadTest.java
+END
+EcmaLoadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/482118/xmlgraphics/batik/trunk/test-sources/org/apache/batik/bridge/EcmaLoadTest.java
+END
+JarNoLoadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/bridge/JarNoLoadTest.java
+END
+JarLoadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/bridge/JarLoadTest.java
+END

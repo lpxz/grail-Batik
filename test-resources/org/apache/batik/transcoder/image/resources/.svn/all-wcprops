@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/test-resources/org/apache/batik/transcoder/image/resources
+END
+butterfly.svg
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/transcoder/image/resources/butterfly.svg
+END
+language.svg
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/test-resources/org/apache/batik/transcoder/image/resources/language.svg
+END
+px2mm.svg
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/transcoder/image/resources/px2mm.svg
+END

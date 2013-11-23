@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/test/xml
+END
+testSuiteA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/test/xml/testSuiteA.xml
+END
+testSuiteB.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/test/xml/testSuiteB.xml
+END
+dummyTestRun.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-resources/org/apache/batik/test/xml/dummyTestRun.xml
+END

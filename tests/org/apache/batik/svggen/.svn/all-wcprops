@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen
+END
+SVGAccuracyTestValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/SVGAccuracyTestValidator.java
+END
+Bug21259.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Bug21259.java
+END
+GetRootTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/GetRootTest.java
+END
+NegativeLengths.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/NegativeLengths.java
+END
+Font2.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/482118/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Font2.java
+END
+Bug17965.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Bug17965.java
+END
+AttributedCharacterIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/AttributedCharacterIterator.java
+END
+Paints.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Paints.java
+END
+JPainterComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/JPainterComponent.java
+END
+Bug6535.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Bug6535.java
+END
+Color2.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Color2.java
+END
+Bug4945.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Bug4945.java
+END
+Bug4389.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Bug4389.java
+END
+RHints.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/475685/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/RHints.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/482118/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Messages.java
+END
+Lookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/482118/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Lookup.java
+END
+SVGAccuracyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/SVGAccuracyTest.java
+END
+ATransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/ATransform.java
+END
+Rescale.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/504106/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Rescale.java
+END
+JPainterCompare.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/JPainterCompare.java
+END
+DoubleStringPerformanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/DoubleStringPerformanceTest.java
+END
+BasicShapes.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/BasicShapes.java
+END
+Font1.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/482118/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Font1.java
+END
+GraphicObjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/GraphicObjects.java
+END
+Clip.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Clip.java
+END
+SVGGeneratorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1372129/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/SVGGeneratorTests.java
+END
+IdentityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/IdentityTest.java
+END
+GeneratorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/GeneratorContext.java
+END
+Gradient.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Gradient.java
+END
+TransformCollapse.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/TransformCollapse.java
+END
+Color1.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/504106/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Color1.java
+END
+Texture.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/482118/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Texture.java
+END
+DrawImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/DrawImage.java
+END
+DoubleString.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/DoubleString.java
+END
+Painter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/482118/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/Painter.java
+END
+BEExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/BEExample.java
+END
+ShearTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/ShearTest.java
+END
+BasicShapes2.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/BasicShapes2.java
+END
+ShowGraphics2DOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/ShowGraphics2DOutput.java
+END
+GVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/GVector.java
+END
+BStroke.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/482118/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/BStroke.java
+END
+TextSpacePreserve.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/475477/xmlgraphics/batik/trunk/test-sources/org/apache/batik/svggen/TextSpacePreserve.java
+END
